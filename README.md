@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented required features: (https://imgur.com/a/IdWQr77)
 
 
 ![Uploading Kapture 2025-03-14 at 22.29.50.gif…]()
