@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Alt Text](https://i.imgur.com/yourImageID.png)
+![Alt Text](https://imgur.com/a/IdWQr77)
 
 
 GIF created with ...  
