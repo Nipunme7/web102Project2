@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/IdWQr77' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Alt Text](https://i.imgur.com/yourImageID.png)
+
 
 GIF created with ...  
 <!-- Recommended tools:
